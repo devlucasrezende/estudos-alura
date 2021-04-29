@@ -1,0 +1,16 @@
+
+public class TestaWhile {
+	
+	public static void main(String[] args) {
+		
+		//Dentro do while necessariamente tem que haver uma variável booleana;
+		
+		int contador = 0;
+		while (contador < 10) {
+			System.out.println(contador);
+			contador = contador ++;
+		}
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+
+public class TestaLacos2 {
+	public static void main(String[] args) {
+		
+		boolean teste = true;
+		String total = "";
+		for (int linha = 0; teste; linha++) {
+			if (linha == 10) {}
+
+			for (int coluna = 0; coluna < 10; coluna++) {
+				total += "#";
+				
+					System.out.print(total);
+				}
+			System.out.println();
+			}
+	
+	}
+}

@@ -1,0 +1,28 @@
+package exercicios;
+
+public class DesafioFatorial {
+	public static void main(String[] args) {
+		
+		
+		int fatorial = 1;
+		for (int i = 1; i < 10; i++) {
+			//System.out.println(i);
+			fatorial = fatorial + "i";
+			}
+			System.out.println(a);
+		}
+		
+			/*
+			 * Fatorial 
+			 * 
+			 * 1! = 1x1
+			 * 2! = 1x2x2
+			 * 3! = 1x2x3
+			 * 4! = 1x2x3x4
+			 * 5! = 1x2x3x4x5
+			 * 10! = 1x2x3x4x5x6x7x8x9x10
+			 */
+		
+	}
+
+}

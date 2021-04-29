@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Lucas Rezende\Desktop\Curso-Alura\.metadata\.plugins\org.eclipse.jdt.core
+1693911205.index
+3914313114.index
+1374762053.index

@@ -1,0 +1,24 @@
+
+public class TestaWhile {
+	
+	public static void main(String[] args) {
+		
+		//Dentro do while necessariamente tem que haver uma variável booleana;
+		//tem que inicializar a variável
+		
+		int contador = 0;
+		while (contador <= 10) {
+			System.out.println(contador);
+			// contador = contador + 1;
+			//contador += 1;
+			//O while sempre precisará de uma expressão condicional que definirá quando o laço deve ser interrompido, essa expressão deve estar dentro das chaves
+			contador++;
+		}
+		
+		
+		
+	}
+
+}
+
+

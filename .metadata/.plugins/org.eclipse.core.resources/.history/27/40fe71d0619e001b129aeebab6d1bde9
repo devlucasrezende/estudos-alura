@@ -1,0 +1,21 @@
+
+public class TestaFor {
+	public static void main(String[] args) {
+		
+	
+		
+		/*no for existem três espaços (   ;    ;    )
+		 * no primeiro espaço temos a variável já declarada
+		 * no segundo espaço temos a condição booleana que determina se vai entrar ou não no laço de repetição. Vai executar a própria iteração? 
+		 * no terceiro espaço temos o incremento ou decremento. O que deve ser executado no final de cada iteração (CONDIÇÃO DE PARADA)
+		 * fora do escopo a variável declarada dentro do for não existe
+		 */
+		
+		for (int contador = 0; contador <=10; contador++) {
+			
+			System.out.println(contador);
+		}
+		//aqui o contador não existe!!!
+	}
+
+}

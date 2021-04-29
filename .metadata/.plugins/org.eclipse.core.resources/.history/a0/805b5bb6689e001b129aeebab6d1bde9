@@ -1,0 +1,15 @@
+package exercicios;
+
+public class TestaSubString {
+	public static void main(String[] args) {
+		
+		String nome = "Marcos";
+		
+		for (int i = 0; i <= 5; i++) {
+			nome.substring(i);
+			System.out.println(i);
+			
+		}
+	}
+
+}

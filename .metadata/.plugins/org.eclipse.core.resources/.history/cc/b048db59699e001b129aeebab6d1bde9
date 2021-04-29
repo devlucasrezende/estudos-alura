@@ -1,0 +1,16 @@
+package exercicios;
+
+public class TestaSubString {
+	public static void main(String[] args) {
+		
+		String nome = "Lucas Otávio";
+		
+		for (int i = 0; i <= nome.length(); i++) {
+			nome = nome.substring(i);
+			System.out.println(nome);
+			
+		}
+		
+	}
+
+}
